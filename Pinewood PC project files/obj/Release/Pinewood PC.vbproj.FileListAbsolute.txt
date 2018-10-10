@@ -1,0 +1,19 @@
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.exe.config
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.exe.manifest
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.application
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.exe
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.pdb
+C:\Users\PityX\Desktop\Pinewood PC project files\COMPILE\Pinewood PC.xml
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.vbproj.ResolveComReference.cache
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\WindowsApplication1.AboutBox1.resources
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\WindowsApplication1.Dialog1.resources
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\WindowsApplication1.Form2.resources
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.vbproj.GenerateResource.Cache
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.exe.manifest
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.application
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.exe
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.xml
+C:\Users\PityX\Desktop\Pinewood PC project files\obj\Release\Pinewood PC.pdb

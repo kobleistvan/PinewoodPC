@@ -1,0 +1,18 @@
+2+5=1
+1+5==2
+3+5==3
+2+=8=4
+6=+9=scroll lock
+
+
+o|||||||||||||   o   ||||||||||| [o]
+
+
+
+^^^^^^^^^^^^^^       ^^^^^^^^^^^^
+
+-0.4V 			+0.4V
+
+cserevolt impulzusnal kapcsolas jon letre.
+
+Scroll Lock felszekundas aktivalasanal(pinewood PC START gommb kliknel) a solenoid leengedi a kocsikat, a stopperek a programban elindulnak ugyanakkor. Lent a fenyszenzoros aramkornel a EKYBOARD aramkor beolvassa a programban a helyezeseket, majd megall a vegen. 

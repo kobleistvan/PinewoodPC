@@ -1,0 +1,72 @@
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe.manifest
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.application
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.exe.manifest
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.application
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.exe.manifest
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.application
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.AboutBox1.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe.manifest
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.application
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Dialog1.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.beallitasok.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Pinewood PC\Pinewood PC.exe.config
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form2.resources
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.AboutBox1.resources
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Dialog1.resources
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe.manifest
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.application
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.xml
+D:\Dokumenteim\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.pdb
+D:\Pinewood PC.exe.config
+D:\Pinewood PC.exe.manifest
+D:\Pinewood PC.application
+D:\Pinewood PC.exe
+D:\Pinewood PC.pdb
+D:\Pinewood PC.xml
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.exe.config
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.exe.manifest
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.application
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.exe
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.pdb
+C:\Users\PityX\Desktop\Pinewood PC project files\Pinewood PC.xml
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form2.resources
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.AboutBox1.resources
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Dialog1.resources
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe.manifest
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.application
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.exe
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.xml
+D:\Pinewood PC\Projekt\WindowsApplication1\WindowsApplication1\obj\Release\Pinewood PC.pdb

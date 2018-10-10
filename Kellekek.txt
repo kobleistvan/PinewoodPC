@@ -1,0 +1,27 @@
+Startnak:
+
+1x Szolenoid
+1x tapegyseg szolenoidnak (220VAC>12V DC)
+1x 20 Ohm
+1x 270 Ohm
+1x NPN tranzisztor BC307-40
+1X min 1A dioda
+
+Finishnek:
+
+4x superbright led (feher)
+4x Phototranzisztor
+4x NPN tranzisztor BC307-40
+4x min 1A dioda
+4x12V rele
+12V Aram.(tapegyseg)
+
+
+~~~~~~~~~~~~~~~~~
++5Voltos/(USB2.0 500mA-USB3.0 900mA USB az USB
+Microsoft USB Keyboard minimum NumLOCK (szamokat hogy irhasson be a keyboard aramkor) es SCROLLLock(elinditja a szolenoidot) ledje legyen>>> mukodteto aramkore+usb 
+kabel
+A ledek a keyboard aramkoron 2V+t kapnak.
+~~~~~~~~~~~~~~~~~~~~~
+
+
